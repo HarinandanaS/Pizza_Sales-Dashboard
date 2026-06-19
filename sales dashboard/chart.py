@@ -13,4 +13,3 @@ plt.ylabel("Sales")
 plt.tight_layout()
 
 plt.savefig("sales_chart.png")
-plt.show()
