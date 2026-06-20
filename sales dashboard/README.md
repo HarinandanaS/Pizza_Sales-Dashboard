@@ -31,5 +31,6 @@ This project analyzes sales data using Python and Power BI.
 
 ## Author
 Harinandana S
+
 B.Tech Computer Science Engineering
 Mar Baselios Christian College of Engineering and Technology
