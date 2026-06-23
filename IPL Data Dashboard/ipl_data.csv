@@ -1,0 +1,11 @@
+MatchID,Team,Opponent,Venue,Runs,Wickets,Result,Season
+1,CSK,MI,Chennai,180,5,Win,2024
+2,MI,RCB,Mumbai,200,4,Win,2024
+3,RCB,CSK,Bangalore,170,8,Loss,2024
+4,KKR,SRH,Kolkata,190,6,Win,2024
+5,RR,DC,Jaipur,185,7,Win,2024
+6,SRH,MI,Hyderabad,210,3,Win,2024
+7,DC,CSK,Delhi,160,9,Loss,2024
+8,GT,RR,Ahmedabad,175,5,Win,2024
+9,PBKS,KKR,Mohali,165,8,Loss,2024
+10,LSG,RCB,Lucknow,195,4,Win,2024
