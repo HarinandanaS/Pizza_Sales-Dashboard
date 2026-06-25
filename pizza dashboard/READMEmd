@@ -1,0 +1,93 @@
+# 🍕 Pizza Sales Dashboard
+
+## 📌 Project Overview
+
+This project analyzes pizza sales data using **Python** and **Power BI**. It provides insights into total orders, revenue, quantity sold, best-selling pizza, sales by category, and pizza-wise performance through an interactive dashboard.
+
+---
+
+## 🚀 Tools Used
+
+- Python
+- Pandas
+- Power BI
+- CSV Dataset
+
+---
+
+## 📊 Dashboard Features
+
+- Total Orders KPI
+- Total Revenue KPI
+- Total Quantity Sold KPI
+- Best Selling Pizza
+- Revenue by Category
+- Revenue by Pizza
+- Pizza Sales Details Table
+- Category Slicer
+- Size Slicer
+
+---
+
+## 📈 Key Insights
+
+- Total Orders: **10**
+- Total Revenue: **7,050**
+- Total Quantity Sold: **19**
+- Best Selling Pizza: **Chicken Supreme**
+- Vegetarian pizzas generated the highest revenue.
+- Large-sized pizzas contributed significantly to total sales.
+
+---
+
+## 📂 Project Files
+
+```
+pizza_dashboard/
+│── pizza_analysis.py
+│── pizza_data.csv
+│── pizza_dashboard.pbix
+│── dashboard.png
+│── README.md
+```
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository.
+2. Install Python libraries.
+
+```bash
+pip install pandas matplotlib
+```
+
+3. Run the Python file.
+
+```bash
+python pizza_analysis.py
+```
+
+4. Open **pizza_dashboard.pbix** in Power BI Desktop.
+
+---
+
+## 📷 Dashboard Preview
+
+Add your dashboard screenshot here.
+
+Example:
+
+![Dashboard](dashboard.png)
+
+---
+
+## 👩‍💻 Author
+
+**Hari Nandana**
+
+GitHub: https://github.com/HarinandanaS
+
+---
+
+⭐ If you like this project, don't forget to star the repository.

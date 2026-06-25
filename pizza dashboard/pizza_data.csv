@@ -1,0 +1,11 @@
+OrderID,Pizza,Category,Size,Quantity,Revenue
+1,Margherita,Classic,Medium,2,500
+2,Pepperoni,Classic,Large,1,400
+3,Veggie,Vegetarian,Small,3,600
+4,BBQ Chicken,Chicken,Large,2,900
+5,Farmhouse,Vegetarian,Medium,2,700
+6,Cheese Burst,Classic,Large,1,550
+7,Tandoori Paneer,Vegetarian,Medium,2,800
+8,Chicken Supreme,Chicken,Large,3,1200
+9,Mexican Green Wave,Vegetarian,Medium,2,750
+10,Paneer Makhani,Vegetarian,Large,1,650
