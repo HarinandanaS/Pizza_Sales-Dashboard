@@ -1,0 +1,21 @@
+Order_ID,Region,Category,Product,Payment_Method,Sales,Quantity,Profit,Rating
+1,North,Electronics,Laptop,Credit Card,55000,2,11000,4.8
+2,South,Fashion,T-Shirt,UPI,1200,4,300,4.2
+3,East,Home,Chair,Debit Card,3500,3,700,4.4
+4,West,Books,Novel,Cash on Delivery,800,2,200,4.6
+5,North,Grocery,Rice,UPI,2500,5,500,4.5
+6,South,Electronics,Smartphone,Credit Card,30000,1,6000,4.7
+7,East,Fashion,Jeans,Debit Card,2200,2,550,4.1
+8,West,Home,Table,Credit Card,5000,1,1000,4.3
+9,North,Books,Textbook,UPI,1500,3,300,4.7
+10,South,Grocery,Coffee,Cash on Delivery,900,4,180,4.4
+11,East,Electronics,Headphones,UPI,2500,3,600,4.5
+12,West,Fashion,Shoes,Debit Card,4500,2,900,4.6
+13,North,Home,Mixer,Credit Card,3800,2,760,4.2
+14,South,Books,Comics,UPI,700,5,140,4.1
+15,East,Grocery,Oil,Cash on Delivery,1800,3,360,4.3
+16,West,Electronics,Keyboard,Credit Card,1500,4,300,4.5
+17,North,Fashion,Jacket,UPI,3500,2,700,4.7
+18,South,Home,Vacuum Cleaner,Debit Card,9000,1,1800,4.8
+19,East,Books,Magazine,Credit Card,600,4,120,4.0
+20,West,Grocery,Snacks,UPI,1200,6,240,4.2

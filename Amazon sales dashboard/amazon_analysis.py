@@ -1,0 +1,11 @@
+import pandas as pd
+df=pd.read_csv('amazon_data.csv')
+print(df.head())
+print(df.shape)
+print(df.columns)
+print("\nColumn Names:")
+print(df.columns)
+print("\nData Types:")
+print(df.dtypes)
+print("\nMissing Values:")
+print(df.isnull().sum())
